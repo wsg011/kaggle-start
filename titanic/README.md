@@ -24,7 +24,7 @@
 ### 准备工作
 
 1.创建input、sub文件夹
-
+
 在kaggle-start/titanic下创建新的文件夹input、sub，input存放数据，sub存放结果。
 
 2.下载训练数据
