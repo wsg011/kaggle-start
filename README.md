@@ -1,42 +1,19 @@
-# 如何在半年的时间里，零基础入门机器学习?
+# 利用Kaggle平台，快速入门机器学习
 
-- 3月份
+## 前言
 
-    - 搭建机器学习环境
-    - 注册Kaggle账号，登录Kaggle平台
-    - 加入第一个Kaggle比赛Titanic
+## 1. 准备工作
 
-- 4月份
+### 1.1 硬件准备
 
-    - 初试Titanic
-    - 机器学习的基本流程
-    - 数据处理，特征工程
-    - XGBoost解决Titanic问题
+### 1.2 机器学习环境搭建
 
-- 5月份
+## 2. Titanic
 
-    - 初试House prediction竞赛
-    - 数据可视化
-    - 数据清洗
-    - 特征工程
-    - 模型评估
-    - Kaggle终极杀器：模型融合
+- 2.1 [利用Logistic算法预测titanic存活率](titanic/2-1-Logistic_predict_Titanic.ipynb)
 
-- 6月份
+## 3. House prediction
 
-    - Logistic回归识别手写数字
-    - 深度学习解决图像识别问题
-    - Tensorflow、Keras识别手写数字
-    - 深度学习模型训练技巧分享
+## 4. Digit recognizer
 
-- 7月份
-
-- Kaggle实战拿银
-
-分享Kaggle的入门教程.
-
-## 目录
-
-### Titanic竞赛
-
-- [0-3 Kaggle竞赛入门 - Titanic实战](titanic/Notebook/0-3_kaggle_start_with_Titanic.ipynb)
+## 附录
